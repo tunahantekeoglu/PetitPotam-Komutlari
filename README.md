@@ -1,5 +1,4 @@
-Aşağıda PetitPotam saldırısını gerçekleştirmek adına kullanabileceğiniz komutlar ile alakalaı açıklamalar mevcuttur. Konu ile alakalı daha geniş çaplı bilgiye sahip olmak için konu ile alakalı makalemi de okuyabilirsiniz 
-
+Aşağıda PetitPotam saldırısını gerçekleştirmek adına kullanabileceğiniz komutlar ve bu komutların işlevleri bulunmaktadır. Detaylı bilgileri öğrenmek için [bu makalemi](https://tun4hunt.medium.com/ad-csye-ve-petitpotam-saldirisina-ntlm-aktarimi-ec154a1db60d) okuyabilirsiniz.
 
 
 
