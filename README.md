@@ -1,3 +1,11 @@
+Aşağıda PetitPotam saldırısını gerçekleştirmek adına kullanabileceğiniz komutlar ile alakalaı açıklamalar mevcuttur. Konu ile alakalı daha geniş çaplı bilgiye sahip olmak için konu ile alakalı makalemi de okuyabilirsiniz 
+
+
+
+
+
+
+
 | Komut | Açıklama | Kullanıcı | Hedef | Notlar |
 | --- | --- | --- | --- | --- |
 | `git clone https://github.com/topotam/PetitPotam.git` | PetitPotam exploit kodunu indirim | Linux Saldırı Makinası | - | Git kullanılarak yapılır. |
